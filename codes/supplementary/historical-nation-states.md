@@ -66,3 +66,12 @@ Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 |num-4|alpah-4|English|endonym|date|government|demise|Geo|
 |:--|:--|--|--|--|--|--:|--|
 |||||||||
+
+
+**europe in the 20th century*
+
+
+|num-4|alpah-4|English|endonym|date|government|demise|
+|:--|:--|--|--|--|--|--:|
+||`DEKA`|German empire|Kaiserreich|November 9, 1918|Monarchy|Collapse|
+||`ATHU`|Austro-hungarian empire|Österreichisch-Ungarische Monarchie/Osztrák–Magyar Monarchia|November 13, 1918|Monarchy|Collapse|
