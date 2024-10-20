@@ -59,7 +59,7 @@ There are many ways for a country to cease to effectively exist. Defining these 
 ||`SATH`|Second Athenian Empire|||||
 ||`CORL`|League of Corinth|||||
 
-**Greek Poleis (City-States)*
+*Greek Poleis (City-States)*
 
 Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 
@@ -68,7 +68,7 @@ Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 |||||||||
 
 
-**europe in the 20th century*
+*Europe in the 20th century*
 
 
 |num-4|alpah-4|English|endonym|date|government|demise|
