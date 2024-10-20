@@ -75,3 +75,4 @@ Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 |:--|:--|--|--|--|--|--:|
 ||`DEKA`|German empire|Kaiserreich|November 9, 1918|Monarchy|Collapse|
 ||`ATHU`|Austro-hungarian empire|Österreichisch-Ungarische Monarchie/Osztrák–Magyar Monarchia|November 13, 1918|Monarchy|Collapse|
+||`ATHU`|Ottoman empire|دولت عليه عثمانیه|October 29, 1923|Monarchy|Collapse|
