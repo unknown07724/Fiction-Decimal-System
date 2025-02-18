@@ -26,7 +26,7 @@ There are many ways for a country to cease to effectively exist. Defining these 
 * **Conquest** - **
 * **Annexation** - *Peaceful joining to a larger or more powerful country.*
 * **Unification** - *Peaceful and consensual joining of approximate equals.*
-* **Revolt** - **
+* **Revolt** - *not so peaceful form of protests*
 
 ### Index
 
@@ -67,8 +67,16 @@ Note: Hansen and Nielsen's *An Inventory of Archaic and Classical Poleis*
 |:--|:--|--|--|--|--|--:|--|
 |||||||||
 
+*North america*
 
-*Europe in the 20th century*
+| num-4 | alpha-4 | English         | endonym       | date       | government | demise   |
+|:-----:|:-------:|-----------------|---------------|------------|------------|----------|
+|       | `IRQL`  | Iroquois League | Haudenosaunee | 18??-??-?? | Republic   | Conquest |
+|       | `CHER`  | Cherokee Nation | Tsalagi       | 1836-??-?? | Republic   | Conquest |
+
+
+
+*Europe*
 
 
 |num-4|alpah-4|English|endonym|date|government|demise|
