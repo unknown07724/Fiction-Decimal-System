@@ -38,7 +38,7 @@ There are many ways for a country to cease to effectively exist. Defining these 
 ||`LATL`|Latin League|||||
 ||`ROMK`|Roman Kingdom|REGNVM ROMANVM|509 BC|Monarchy|Coup d'état|
 ||`SPQR`|Roman Republic|SENATVS POPVLVS QVE ROMANVS|27 BC|Republic||
-||`ROME`|Roman Empire|IMPERIVM ROMANUM|476 AD|Monarchy|collapse|
+||`ROME`|Roman Empire|IMPERIVM ROMANUM|476 AD|Monarchy|Collapse|
 ||`WROM`|Western Roman Empire|||||
 ||`BYZA`|Byzantine Empire|Βασιλεία Ῥωμαίων||||
 ||`NICE`|Empire of Nicea|||||
