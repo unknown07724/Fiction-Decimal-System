@@ -26,7 +26,7 @@ There are many ways for a country to cease to effectively exist. Defining these 
 * **Conquest** - **
 * **Annexation** - *Peaceful joining to a larger or more powerful country.*
 * **Unification** - *Peaceful and consensual joining of approximate equals.*
-* **Revolt** - *not so peaceful form of protests*
+* **Revolt** - *Not so peaceful form of protests.*
 
 ### Index
 
